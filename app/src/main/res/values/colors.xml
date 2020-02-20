@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#008577</color>
+    <color name="colorPrimaryDark">#00574B</color>
+    <color name="navHeader">#D81B60</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="blue_grey_500">#607D8B</color>
+    <color name="blue_grey_600">#546E7A</color>
+    <color name="blue_grey_700">#455A64</color>
+    <color name="blue_grey_800">#37474F</color>
+    <color name="blue_grey_900">#263238</color>
+
+    <color name="badges_color">#5c5f63</color>
+
+    <!--badges-->
+    <color name="Musictype">#607D8B</color>
+    <color name="Classtype">#546E7A</color>
+    <color name="GymType">#455A64</color>
+    <color name="DramaType">#37474F</color>
+    <color name="DanceType">#263238</color>
+</resources>
